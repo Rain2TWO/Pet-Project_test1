@@ -1,0 +1,14 @@
+# Core dependencies
+numpy
+scipy
+
+# Machine Learning
+torch
+
+# Geometry and 3D rendering
+trimesh
+pyvista
+
+# API clients
+openai
+meshy
